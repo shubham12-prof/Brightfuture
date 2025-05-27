@@ -13,10 +13,10 @@ export default function Navbar() {
     };
 
     return (
-        <nav className="fixed w-full top-0 z-50 ">
+        <nav className="fixed w-full top-0 z-50 bg-gray-800">
             <div className="max-w-7xl mx-auto px-6 md:px-8">
                 <div className="flex justify-between items-center h-16">
-                    <h1 className="text-3xl font-extrabold text-white cursor-pointer">
+                    <h1 className="text-3xl font-extrabold text-white cursor-pointer ">
                         BrightFuture
                     </h1>
 
